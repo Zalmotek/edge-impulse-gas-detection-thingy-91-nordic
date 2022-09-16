@@ -13,7 +13,7 @@
 	</tr>
 	<tr>
 		<td><p>Industrial</p></td>
-		<td><p>Thingy:91/p></td>
+		<td><p>Thingy:91</p></td>
 		<td><p>Nordic Semi</p></td>
 		<td><p>Predictive maintenance</p></td>
 		<td><p>NN Classifier</p></td>
