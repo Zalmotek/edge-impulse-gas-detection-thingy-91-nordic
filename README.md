@@ -35,7 +35,6 @@ To overcome those challenges, we propose a solution based on the Nordic Semi Thi
 A system built around the  Nordic Thingy:91 and Edge Impulse platform is a great way to overcome some of the challenges associated with traditional gas detection systems. By using it as an edge device, it can measure the gas concentration, run a machine learning algorithm and decide if there is a trend in the quantity of dangerous gasses in the air and act out without human intervention. Additionally, by using it as a wearable, it will be able to detect gas leakages in the proximity of the employees that wear it, ensuring that they are not exposed to dangerous agents.
 
 ## Authors
-   [Zalmotek team](https://zalmotek.com/)
-
+   Built for [Edge Impulse](https://edgeimpulse.com/) by the [Zalmotek team](https://zalmotek.com/)
 
 
