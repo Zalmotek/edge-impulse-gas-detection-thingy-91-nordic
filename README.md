@@ -3,26 +3,6 @@
 
 ![NiclaVision headline photo](Thingy91Highlight.jpg)
 
-<table align="center", width="100%">
-	<tr>
-		<td><p>Vertical</p></td>
-		<td><p>Hardware Target</p></td>
-		<td><p>Manufacturer</p></td>
-		<td><p>Type</p></td>
-		<td><p>Feature used</p></td>
-	</tr>
-	<tr>
-		<td><p>Industrial</p></td>
-		<td><p>Thingy:91</p></td>
-		<td><p>Nordic Semi</p></td>
-		<td><p>Predictive maintenance</p></td>
-		<td><p>NN Classifier</p></td>
-	</tr>
-		
-
-</table>
-
-
 ## The challenge
 
 Traditional gas detection systems based on point sensors have several limitations.Spatial density, Network coverage and the need of human intervention to evaluate the data and take action reduce the performance of said systems and decrease their ability to detect and take early preventive measures in case of a gas leak.
